@@ -23,4 +23,7 @@ body{
 h1 {
     font-size: 60px;
     font-family: Georgia;
+    background: rgb(176, 139, 212);
+    line-height: 80px;
+    padding: 20px;
 }
