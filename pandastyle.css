@@ -18,4 +18,5 @@ body{
 p {
     border: solid 5px #929292;
     padding: 20px;
+    border-radius: 20px;
 }
