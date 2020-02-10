@@ -6,9 +6,15 @@ body{
 
     font-family: Arial;
     line-height: 25px;
+
 }
 
 .column {
     width: 600px;
     margin: 40px auto;
+}
+
+h1 {
+    font-size: 60px;
+    font-family: Georgia;
 }
