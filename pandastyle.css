@@ -6,13 +6,16 @@ body{
 
     font-family: Arial;
     line-height: 25px;
-    background-color: yellow;
+    background-color: #e5e5b5;
+    margin: 0px;
 
 }
 
 .column {
     width: 600px;
-    margin: 40px auto;
+    margin: 0px auto;
+    background-color: white;
+    padding: 1px 40px 40px 40px;
 }
 
 h1 {
